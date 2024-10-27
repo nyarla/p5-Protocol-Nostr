@@ -1,6 +1,6 @@
 ## Pull Request Template with Architecture Decision Records.
 
-> [!INFO]
+> [!NOTE]
 > This template made for logging to the decision of this library.
 >
 > If who contribute to this library, who should write summaryies as this format.
